@@ -24,3 +24,14 @@ Con keyboard.on_press ejecutamos la funcion que hemos creado antes con cada puls
 
 # 🖥️ - Áreas de mejora 
 He pensado que podriamos con alguna tool o herramienta convertir el script de python a ejecutable (.exe) y añadirle algun icono para hacerlo pasar mas desapercibido. O incluso primero encriptar el codigo de python y luego pasarlo a exe y añadirle de alguna manera que se pudiera registrar los eventos desde una sesión remota. La tool que usariamos para pasarlo de python a ejecutable y añadirle un icono se llama "auto-py-to-exe" que podemos instalarla con "pip install auto-py-to-exe". 
+
+# ❓ - ¿Cómo usarlo?
+
+Abrimos una terminal donde tengamos el archivo keylogger.py y lo ejecutamos con "python3 keylogger.py" y una vez hecho se ejecutara y comenzara a guardar teclas en el archivo teclas.txt y imprimirlas en la terminal.
+[TERMINAL]
+
+![image](https://github.com/user-attachments/assets/0a468f89-7797-40d8-a73b-a6da4077f63f)
+
+[ARCHIVO TXT]
+
+![image](https://github.com/user-attachments/assets/8a80faa0-3228-4829-a985-95af8d7997df)
